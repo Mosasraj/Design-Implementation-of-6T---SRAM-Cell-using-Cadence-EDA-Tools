@@ -33,7 +33,8 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 ## Circuit Diagram
 
-![Screenshot 2025-03-24 122239](https://github.com/user-attachments/assets/c22930fc-f396-4787-807d-51088ad7959e)
+<img width="1600" height="995" alt="image" src="https://github.com/user-attachments/assets/ef483c69-745f-4004-a216-c8a10f7922e4" />
+
 
 
 
